@@ -1,1 +1,1 @@
-
+Code and results from "Comparison of Data Compression Architectures for Neural Multi-Unit Activity Signals in Brain-Machine Interfaces" by Oscar Savolainen, Zheng Zhang, and Timothy Constandinou. In this work we proposed multiple state-of-the-art MUA compression schemes. We then compared their compression performance and hardware efficiency.
